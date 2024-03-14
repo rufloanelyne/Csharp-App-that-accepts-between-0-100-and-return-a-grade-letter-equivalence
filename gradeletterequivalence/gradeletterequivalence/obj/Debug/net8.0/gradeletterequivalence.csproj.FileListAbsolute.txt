@@ -1,0 +1,14 @@
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\bin\Debug\net8.0\gradeletterequivalence.exe
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\bin\Debug\net8.0\gradeletterequivalence.deps.json
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\bin\Debug\net8.0\gradeletterequivalence.runtimeconfig.json
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\bin\Debug\net8.0\gradeletterequivalence.dll
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\bin\Debug\net8.0\gradeletterequivalence.pdb
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.AssemblyInfoInputs.cache
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.AssemblyInfo.cs
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.csproj.CoreCompileInputs.cache
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.dll
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\refint\gradeletterequivalence.dll
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.pdb
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\gradeletterequivalence.genruntimeconfig.cache
+C:\Users\SKANLOG\source\repos\gradeletterequivalence\gradeletterequivalence\obj\Debug\net8.0\ref\gradeletterequivalence.dll
